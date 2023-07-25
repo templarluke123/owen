@@ -1,0 +1,9 @@
+Issue Type,Issue key,Issue id,Summary,Assignee,Reporter,Priority,Resolution,Created,Updated,Due Date,Status
+Bug,WLANRTSYS-55682,846686,[Octopus+WAV700][Wi-Fi 6E Certification][6.1.0.1660][HE-56.3.6G] TWT setup failed between AP and Intel STA,dpswamy,ochien,P2-High,,2023-05-29 07:31,2023-06-29 09:13,,Open
+Bug,WLANRTSYS-55681,846684,[Octopus+WAV700][Wi-Fi 6E Certification][6.1.0.1660][HE-71.1.6G] AP still send probe response from 6G in step4.,vsannidh,ochien,P2-High,,2023-05-29 07:23,2023-06-29 08:24,,Open
+Bug,WLANRTSYS-55686,846710,[Octopus+WAV700][Wi-Fi 6E Certification][6.1.0.1660][HE-40.6.6G] There are HE SU PPDU transmitted by STA,ochien,ochien,P2-High,,2023-05-29 09:26,2023-06-29 08:17,,In Progress
+Bug,WLANRTSYS-54097,836058,[Octopus+WAV700][11ax R1 Certification][6.1.0.1660]Throughput lower than expected,dpswamy,ochien,P1-Stopper,,2023-03-24 10:00,2023-06-27 08:46,,In Progress
+Bug,WLANRTSYS-55284,844920,[Octopus+WAV700][11ax R1 Certification][6.1.0.1651][HE-4.40.4] STA2 throughput lower than expected,psathiyendran,ochien,P2-High,,2023-05-17 10:54,2023-06-23 11:16,,In Progress
+Bug,WLANRTSYS-54871,841853,[Octopus+WAV700][WPA3-R3 Certification][6.1.0.1626][SAE-4.8.1] AP did not sent deauth frame to STA3,npalanivel,ochien,P2-High,,2023-05-04 06:29,2023-06-20 07:16,,In Progress
+Bug,WLANRTSYS-56229,849677,[Octopus+WAV700][WLAN6.1.0][ac Pre-Certification] VHT-4.2.50 OBSS traffic througuput of Test Bed AP/STA is lower than criteria,dpswamy,yuanc,P2-High,,2023-06-16 14:00,2023-06-16 14:34,,Open
+Bug,WLANRTSYS-55193,844073,[Octopus+WAV700][11ax R2 Certification][6.1.0.1649]Throughput less than expected.,anupsharma,ochien,P1-Stopper,,2023-05-15 10:33,2023-06-15 11:25,,In Progress
